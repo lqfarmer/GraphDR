@@ -1,4 +1,4 @@
-# GraphTR
+# GraphDR
 
 Improving Accuracy and Diversity in Matching of Recommendation with Diversified Preference Network（TBD-2021)
 Ruobing Xie*, Qi Liu*, Shukai Liu, Ziwei Zhang, Peng Cui, Bo Zhang and Leyu Lin.
