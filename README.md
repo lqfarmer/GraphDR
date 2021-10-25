@@ -7,7 +7,7 @@ Ruobing Xie*, Qi Liu*, Shukai Liu, Ziwei Zhang, Peng Cui, Bo Zhang and Leyu Lin.
 
 python 2.7.15 tensorflow 1.14.0
 
-# Train DFN model
+# Train GraphDR model
 
 sh -x train.sh
 
